@@ -9,5 +9,5 @@ Terraform, and on-premises infrastructure.
 - Microsoft Intune endpoing management
 - Security hardening and PAM
 
-## Sessiong Progress
+## Session Progress
 - Session 1: Environment setup, Azure provider, resource group deployed
